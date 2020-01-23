@@ -19,7 +19,7 @@ steps:
   displayName: 'Use .NET Core SDK 3.1.100'
   inputs:
     packageType: sdk
-    version: 2.2.0
+    version: 2.1.803
 
 - task: Npm@1
   displayName: 'Run npm install'
